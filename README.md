@@ -43,4 +43,46 @@ MongoDB - Powers the backend of the blog platform, handling requests and enablin
 Bcrypt - Used for hashing passwords securely before storing them in the database
 
 ## Home Page
-[frontend/src/images/home.png](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/home.png)
+![home](https://github.com/Khushi-patel1221/VoteCast/assets/141536003/73a2f26a-021c-4014-b1c2-6aea366f42bc)
+
+
+## Installation🚀
+## Backend
+1. Clone the repository:
+
+git clone https://github.com/Khushi-patel1221/VoteCast.git
+cd VoteCast
+
+2. Navigate to the backend directory:
+cd backend
+
+3. Install dependencies:
+npm install
+
+4. Update MongoDB configuration:
+
+Open backend/src/.env and modify the following :
+
+   mongodb+srv://<username>:<password>@<cluster>/<database>?retryWrites=true&w=majority&appName=<appname>
+Replace the following placeholders in your configuration files:
+
+<username>: Your MongoDB username
+<password>: Your MongoDB password
+<cluster>: The MongoDB cluster URL
+<database>: The MongoDB database name
+<appname>: Optional. The name of your application
+
+5. Start the backend server:
+npm start
+
+## Frontend
+1. Navigate to the frontend directory:
+cd frontend
+
+2. Install dependencies:
+npm install
+
+3.Start the frontend development server:
+npm start
+
+4.Open your browser and navigate to http://localhost:3000 to view the application.
