@@ -43,4 +43,4 @@ MongoDB - Powers the backend of the blog platform, handling requests and enablin
 Bcrypt - Used for hashing passwords securely before storing them in the database
 
 ## Home Page
-frontend/src/images/home.png
+[frontend/src/images/home.png](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/home.png)
