@@ -65,39 +65,39 @@ Bcrypt - Used for hashing passwords securely before storing them in the database
 ## Backend
 1. Clone the repository:
 
-git clone https://github.com/Khushi-patel1221/VoteCast.git
-cd VoteCast
+ git clone https://github.com/Khushi-patel1221/VoteCast.git
+ cd VoteCast
 
 2. Navigate to the backend directory:
-cd backend
+ cd backend
 
 3. Install dependencies:
-npm install
+ npm install
 
 4. Update MongoDB configuration:
 
-Open backend/src/.env and modify the following :
+ Open backend/src/.env and modify the following :
 
-mongodb+srv://<username>:<password>@<cluster>/<database>?retryWrites=true&w=majority&appName=<appname>
-Replace the following placeholders in your configuration files:
+ mongodb+srv://<username>:<password>@<cluster>/<database>?retryWrites=true&w=majority&appName=<appname>
+ Replace the following placeholders in your configuration files:
 
-<username>: Your MongoDB username
-<password>: Your MongoDB password
-<cluster>: The MongoDB cluster URL
-<database>: The MongoDB database name
-<appname>: Optional. The name of your application
+ <username>: Your MongoDB username
+ <password>: Your MongoDB password
+ <cluster>: The MongoDB cluster URL
+ <database>: The MongoDB database name
+ <appname>: Optional. The name of your application
 
 5. Start the backend server:
-npm start
+ npm start
 
 ## Frontend
 1. Navigate to the frontend directory:
-cd frontend
+ cd frontend
 
 2. Install dependencies:
-npm install
+ npm install
 
 3.Start the frontend development server:
-npm start
+ npm start
 
 4.Open your browser and navigate to http://localhost:3000 to view the application.
