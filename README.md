@@ -19,7 +19,8 @@ VoteCast is a streamlined voting platform crafted with the MERN technology, desi
 
 - User Authentication: Secure login and registration for users using Bcrypt.
 
-Technologies💻
+## Technologies💻
+
 Frontend:
 
 ReactJS: Utilized for building the frontend to ensure efficient UI rendering, interactivity, and responsiveness for voters and candidates.
@@ -40,3 +41,6 @@ MongoDB - Powers the backend of the blog platform, handling requests and enablin
 -Authentication:
 
 Bcrypt - Used for hashing passwords securely before storing them in the database
+
+## Home Page
+home.png
