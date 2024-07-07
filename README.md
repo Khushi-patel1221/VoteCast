@@ -4,10 +4,9 @@ VoteCast is a streamlined voting platform crafted with the MERN technology, desi
 
 - Register as Voter or Candidate: Users can register either as voters to participate in elections or as candidates to run for office.
 
- - User Authentication: Secure registration and login process for voters and candidates.
+- User Authentication: Secure registration and login process for voters and candidates.
 
-
- - Vote Casting: Voters can log in to cast their votes for their preferred candidates in elections.
+- Vote Casting: Voters can log in to cast their votes for their preferred candidates in elections.
 
 - Candidate Dashboard: Candidates have access to a dashboard where they can view their own election campaign details, including total votes received, and monitor the number of votes of each opponent.
 
@@ -21,13 +20,13 @@ VoteCast is a streamlined voting platform crafted with the MERN technology, desi
 
 ## Technologies💻
 
-Frontend:
+## Frontend:
 
 ReactJS: Utilized for building the frontend to ensure efficient UI rendering, interactivity, and responsiveness for voters and candidates.
 
 CSS: Custom styling using CSS to tailor the design and layout of VoteCast according to usability requirements.
 
--Backend:
+## Backend:
 
 Node.js: Powers the backend of VoteCast, handling server-side logic and API integrations effectively.
 
@@ -35,10 +34,11 @@ Express: Facilitates routing and middleware management, enabling seamless commun
 
 MongoDB: Stores data related to elections, candidates, voters, and voting results.
 
--Database:
+## Database:
 
 MongoDB - Powers the backend of the blog platform, handling requests and enabling server-side logic.
--Authentication:
+
+## Authentication:
 
 Bcrypt - Used for hashing passwords securely before storing them in the database
 
@@ -78,7 +78,7 @@ npm install
 
 Open backend/src/.env and modify the following :
 
-   mongodb+srv://<username>:<password>@<cluster>/<database>?retryWrites=true&w=majority&appName=<appname>
+mongodb+srv://<username>:<password>@<cluster>/<database>?retryWrites=true&w=majority&appName=<appname>
 Replace the following placeholders in your configuration files:
 
 <username>: Your MongoDB username
