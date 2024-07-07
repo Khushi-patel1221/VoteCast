@@ -45,6 +45,21 @@ Bcrypt - Used for hashing passwords securely before storing them in the database
 ## Home Page
 ![home](https://github.com/Khushi-patel1221/VoteCast/assets/141536003/73a2f26a-021c-4014-b1c2-6aea366f42bc)
 
+## Register Page
+![](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/register.png)
+![](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/register1.png)
+![](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/register2.png)
+
+## Login Page
+
+![](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/login.png)
+
+## Candidate Page
+![](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/Candidatepage.png)
+
+## Voting Page
+![](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/Votingpage.png)
+![](https://github.com/Khushi-patel1221/VoteCast/blob/main/frontend/src/images/vote.png)
 
 ## Installation🚀
 ## Backend
