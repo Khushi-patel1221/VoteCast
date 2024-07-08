@@ -80,18 +80,18 @@ npm install
 
 6. Update MongoDB configuration:
 
-Open backend/src/.env and modify the following :
+ Open backend/src/.env and modify the following :
 
 ```javascript
  mongodb+srv://<username>:<password>@<cluster>/<database>?retryWrites=true&w=majority&appName=<appname>
 ```
  Replace the following placeholders in your configuration files:
 
- -<username>: Your MongoDB username
- -<password>: Your MongoDB password
- -<cluster>: The MongoDB cluster URL
- -<database>: The MongoDB database name
- -<appname>: Optional. The name of your application
+ <username>: Your MongoDB username
+ <password>: Your MongoDB password
+ <cluster>: The MongoDB cluster URL
+ <database>: The MongoDB database name
+ <appname>: Optional. The name of your application
 
 5. Start the backend server:
 ```sh
