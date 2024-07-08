@@ -87,23 +87,31 @@ Open backend/src/.env and modify the following :
 ```
  Replace the following placeholders in your configuration files:
 
- <username>: Your MongoDB username
- <password>: Your MongoDB password
- <cluster>: The MongoDB cluster URL
- <database>: The MongoDB database name
- <appname>: Optional. The name of your application
+ -<username>: Your MongoDB username
+ -<password>: Your MongoDB password
+ -<cluster>: The MongoDB cluster URL
+ -<database>: The MongoDB database name
+ -<appname>: Optional. The name of your application
 
 5. Start the backend server:
+```sh
  npm start
+```
 
 ## Frontend
 1. Navigate to the frontend directory:
+```sh
  cd frontend
+```
 
-2. Install dependencies:
+3. Install dependencies:
+```sh
  npm install
+```
 
 3.Start the frontend development server:
+```sh
  npm start
+```
 
-4.Open your browser and navigate to http://localhost:3000 to view the application.
+4.Open your browser and navigate to  http://localhost:3000 to view the application.
