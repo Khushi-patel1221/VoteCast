@@ -64,9 +64,10 @@ Bcrypt - Used for hashing passwords securely before storing them in the database
 ## Installation🚀
 ## Backend
 1. Clone the repository:
-
+```sh
  git clone https://github.com/Khushi-patel1221/VoteCast.git
  cd VoteCast
+```
 
 2. Navigate to the backend directory:
  cd backend
